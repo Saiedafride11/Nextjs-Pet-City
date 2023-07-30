@@ -1,0 +1,162 @@
+.about {
+  background: url("https://images.unsplash.com/photo-1506188232657-23c9c893ac2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG9mZmljZSUyMGRlc2t8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"),
+    rgba(0, 0, 0, 0.8);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  width: 100%;
+  height: 400px;
+  background-blend-mode: darken, luminosity;
+
+  margin-top: 20px;
+}
+.aboutus h1 {
+  color: white;
+  font-size: 40px;
+}
+.aboutus {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+.aboutus p {
+  color: white;
+  text-align: justify;
+  font-size: 18px;
+}
+.team {
+  width: 80%;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+.team h1 {
+  font-size: 40px;
+  margin-top: 15px;
+}
+.team p {
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.team hr {
+  width: 20%;
+  margin: 0 auto;
+  border-bottom: 2px solid grey;
+}
+.teamarea {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.border {
+  border-top: 10px solid grey;
+  border-bottom: 10px solid grey;
+  box-shadow: 3px 3px 3px grey;
+  border-radius: 10px;
+  margin-right: 25px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.border img {
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+.border p {
+  font-size: 17px;
+  text-align: justify;
+}
+.border h1 {
+  color: #2d0b37;
+}
+.border button {
+  font-size: 30px;
+  margin-right: 15px;
+  margin-top: 10px;
+  color: #371242;
+}
+.company {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 80%;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.back {
+  background-color: #2d0b37;
+  color: white;
+}
+
+.company p {
+  text-align: justify;
+}
+.company h1 {
+  font-size: 40px;
+}
+.company h2 {
+  font-size: 30px;
+}
+.company ul li {
+  line-height: 35px;
+}
+
+.left {
+  margin-left: 40px;
+}
+
+.tren {
+  margin-left: 15px;
+}
+
+@media only screen and (max-width: 688px) {
+  .teamarea {
+    grid-template-columns: 1fr;
+  }
+  .company {
+    grid-template-columns: 1fr;
+  }
+  .company h2 {
+    margin-top: 20px;
+  }
+  .left {
+    margin-left: 0;
+  }
+  .aboutus p {
+    font-size: 13px;
+  }
+  .aboutus {
+    width: 90%;
+  }
+  .tren {
+    margin-left: 0;
+  }
+}
+
+.zones_bg{
+  background: 
+  linear-gradient(#64c8e6, #9198e563), url("../../images/hired.jpg");
+background-position: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+padding: 30px 0px;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+}
+
+
+@media only screen and (max-width:640px)  {
+  .zones_bg{
+    display: block;
+    height: 900px;
+    padding: 0px 10px;
+  }
+  .process_con{
+    margin: 0px 20px;
+  }
+}

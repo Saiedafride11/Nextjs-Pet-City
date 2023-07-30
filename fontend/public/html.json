@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which HTML attribute will you need to see the play button on your audio video in the browser?",
+    "answerOptions": [
+      { "answer": "play" },
+      { "answer": "headphone" },
+      { "answer": "controls", "isCorrect": true },
+      { "answer": "microphone" }
+    ]
+  },
+  {
+    "question": "Which tag is used to play youtube videos on your website?",
+    "answerOptions": [
+      { "answer": "<video></video>" },
+      { "answer": "<youtube></youtube>" },
+      { "answer": "<iframe></iframe>", "isCorrect": true },
+      { "answer": "<main></main>" }
+    ]
+  },
+  {
+    "question": "Which one is not a semantic tag among all the options below?",
+    "answerOptions": [
+      { "answer": "article" },
+      { "answer": "navbar", "isCorrect": true },
+      { "answer": "nav" },
+      { "answer": "footer" }
+    ]
+  },
+  {
+    "question": "What is the correct order to make a table head in an HTML table?",
+    "answerOptions": [
+      { "answer": "table>thead>tr>th", "isCorrect": true },
+      { "answer": "table>tbody>tr>td" },
+      { "answer": "table>thead>tr>thead" },
+      { "answer": "table>thead>th>tr" }
+    ]
+  },
+  {
+    "question": "Which one is NOT an HTML table tag?",
+    "answerOptions": [
+      { "answer": "<thead></thead>" },
+      { "answer": "<table></table>" },
+      { "answer": "<tcaption></tcaption>", "isCorrect": true },
+      { "answer": "<tbody></tbody>" }
+    ]
+  },
+  {
+    "question": "Why input type=”radio” used?",
+    "answerOptions": [
+      { "answer": "Select website" },
+      { "answer": "Use radio icon" },
+      { "answer": "Allows you to select one option", "isCorrect": true },
+      { "answer": "All the above" }
+    ]
+  },
+  {
+    "question": "Which of the following is the correct syntax to display the hyperlinks without any underline?",
+    "answerOptions": [
+      { "answer": "a {underline: goodbye}" },
+      { "answer": "a {remove: underline}" },
+      { "answer": "a {text-decoration: no-underline}" },
+      { "answer": "a {text-decoration: none}", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What is the CSS immediate child selector icon?",
+    "answerOptions": [
+      { "answer": ">", "isCorrect": true },
+      { "answer": "<" },
+      { "answer": ":" },
+      { "answer": "/" }
+    ]
+  },
+  {
+    "question": "Which CSS property is used to hide dropdown items?",
+    "answerOptions": [
+      { "answer": "display: hidden" },
+      { "answer": "display: none", "isCorrect": true },
+      { "answer": "display: visible" },
+      { "answer": "display: invisible" }
+    ]
+  },
+  {
+    "question": "Which tag of SVG is used to draw a rectangle?",
+    "answerOptions": [
+      { "answer": "rectangle" },
+      { "answer": "box" },
+      { "answer": "react", "isCorrect": true },
+      { "answer": "cir" }
+    ]
+  }
+]

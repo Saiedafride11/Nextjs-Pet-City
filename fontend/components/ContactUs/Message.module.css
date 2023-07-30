@@ -1,0 +1,96 @@
+.message{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding:40px 0;
+    
+}
+.ma {
+    margin-right: 20px;
+}
+.message h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.pera0{
+    display: flex;
+    margin-top: 20px;
+}
+.pera1{
+    display: flex;
+    margin-top: 10px;
+}
+.flex{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin-top: 40px;
+}
+.fle{
+    display: flex;
+    grid-column-gap: 10px;
+}
+
+#single{
+    width:100%
+}
+.ma input{
+    border: 1px solid grey;
+    width: 250px;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.ma textarea{
+    border: 1px solid grey;
+    margin-top: 10px;
+    width: 100%;
+    padding: 5px 20px;
+    border-radius: 10px;
+    height: 150px;
+}
+.mai{
+    padding:20px;
+}
+
+.social {
+    font-size: 35px;
+    margin-top: 25px;
+
+}
+.social button{
+    margin-right: 25px;
+}
+.fle input{
+    width: 330px;
+}
+
+
+@media only screen and (max-width:688px) {
+    .flex{
+        grid-template-columns: 1fr;
+        
+    }
+   .ma{
+       margin-right: 60px;
+       
+   }
+   .mai{
+       margin-right: 60px;
+       margin-top: 30px;
+       padding: 30px;
+   }
+   .mai h1{
+       font-size: 25px;
+       margin-bottom: 10px;
+   }
+   .fle{
+       flex-direction: column;
+   }
+   .ma input{
+       width: 280px;
+   }
+   .ma{
+       margin-right: 40px;
+   }
+}

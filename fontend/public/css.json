@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which visibility style you should use to not show the element but keep its spot?",
+    "answerOptions": [
+      { "answer": "none" },
+      { "answer": "hide" },
+      { "answer": "hidden", "isCorrect": true },
+      { "answer": "shy" }
+    ]
+  },
+  {
+    "question": "Which one is not an overflow value?",
+    "answerOptions": [
+      { "answer": "invisible", "isCorrect": true },
+      { "answer": "hidden" },
+      { "answer": "scroll" },
+      { "answer": "visible" }
+    ]
+  },
+  {
+    "question": "Which of the following property controls the horizontal overflow?",
+    "answerOptions": [
+      { "answer": "overflow" },
+      { "answer": "overflow-x", "isCorrect": true },
+      { "answer": "overflow-y" },
+      { "answer": "overflow-inline" }
+    ]
+  },
+  {
+    "question": "Which one is not an image extension?",
+    "answerOptions": [
+      { "answer": "JPG" },
+      { "answer": "PNG" },
+      { "answer": "SVG" },
+      { "answer": "JPFG", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What is the format to display vector images?",
+    "answerOptions": [
+      { "answer": "JPG" },
+      { "answer": "GIF" },
+      { "answer": "SVG", "isCorrect": true },
+      { "answer": "PNG" }
+    ]
+  },
+  {
+    "question": "Which one is not a transform value among all these options?",
+    "answerOptions": [
+      { "answer": "rotate();" },
+      { "answer": "translate();" },
+      { "answer": "reverse();", "isCorrect": true },
+      { "answer": "scale();" }
+    ]
+  },
+  {
+    "question": "Which transform value will change both the height and width of an HTML element?",
+    "answerOptions": [
+      { "answer": "zoom(x,y)" },
+      { "answer": "scaleX(n)" },
+      { "answer": "scale(x,y)", "isCorrect": true },
+      { "answer": "translate(x,y)" }
+    ]
+  },
+  {
+    "question": "What is the CSS immediate child selector icon?",
+    "answerOptions": [
+      { "answer": ">", "isCorrect": true },
+      { "answer": "<" },
+      { "answer": ":" },
+      { "answer": "/" }
+    ]
+  },
+  {
+    "question": "Which CSS property is used to hide dropdown items?",
+    "answerOptions": [
+      { "answer": "display: hidden" },
+      { "answer": "display: none", "isCorrect": true },
+      { "answer": "display: visible" },
+      { "answer": "display: invisible" }
+    ]
+  },
+  {
+    "question": "Which tag of SVG is used to draw a rectangle?",
+    "answerOptions": [
+      { "answer": "rectangle" },
+      { "answer": "box" },
+      { "answer": "react", "isCorrect": true },
+      { "answer": "cir" }
+    ]
+  }
+]

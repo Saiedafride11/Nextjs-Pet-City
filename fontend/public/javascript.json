@@ -1,0 +1,95 @@
+[
+  {
+    "question": "Which of the following is true about JavaScript?",
+    "answerOptions": [
+      { "answer": "High-level, interpreted programming language" },
+      { "answer": "Low-level, interpreted programming language" },
+      { "answer": "Makes a website interactive" },
+      { "answer": "Both 1 and 2", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "How will you connect an external script in a html file?",
+    "answerOptions": [
+      { "answer": "<javascript src=''></javascript>" },
+      { "answer": "<style src=''></style>" },
+      { "answer": "<script src=''></script>", "isCorrect": true },
+      { "answer": "<link href=''></link>" }
+    ]
+  },
+  {
+    "question": "What is DOM?",
+    "answerOptions": [
+      { "answer": "Document Obect Model" },
+      { "answer": "Document Object Model", "isCorrect": true },
+      { "answer": "Develop Own Mobile" },
+      { "answer": "Device Orientation Module" }
+    ]
+  },
+  {
+    "question": "How  will you get all the matching tags in a HTML file?",
+    "answerOptions": [
+      { "answer": "getElementsByTagName", "isCorrect": true },
+      { "answer": "getElementsByName" },
+      { "answer": "getElementsByTag" },
+      { "answer": "document.TagName" }
+    ]
+  },
+  {
+    "question": "What does the innerText give you?",
+    "answerOptions": [
+      { "answer": "Only the text inside a tag", "isCorrect": true },
+      { "answer": "The text and tag inside a tag" },
+      { "answer": "The text outside the tag" },
+      { "answer": "hiding secret message from your parents" }
+    ]
+  },
+  {
+    "question": "Set font size to 30px? document.getElementById(‘h1’)._____?________ = ‘30px’;",
+    "answerOptions": [
+      { "answer": "fontSize" },
+      { "answer": "Style.fontSize" },
+      { "answer": "style.fontsize" },
+      { "answer": "style.fontSize", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "How would you select the heading with id =”jantoos” using javascript?",
+    "answerOptions": [
+      { "answer": "#jantoos" },
+      { "answer": "document.getElementsById(”#jantoos”)" },
+      { "answer": "document.getElementsById(”jantoos”)" },
+      { "answer": "document.getElementById(”jantoos”)", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Which one is true?",
+    "answerOptions": [
+      {
+        "answer": "QuerySelectorAll will return a nodeList",
+        "isCorrect": true
+      },
+      { "answer": "QuerySelectorAll will provide you one single element" },
+      { "answer": "QuerySelector will give you a list of matched elements" },
+      { "answer": "QuerySelectorAll will return you an array" }
+    ]
+  },
+  {
+    "question": "Which one is not a node type?",
+    "answerOptions": [
+      { "answer": "Comment Node" },
+      { "answer": "Class Node", "isCorrect": true },
+      { "answer": "Text Node" },
+      { "answer": "Document Node" }
+    ]
+  },
+  {
+    "question": "which one will create a new html element/tag?",
+    "answerOptions": [
+      { "answer": "createElementbytag" },
+      { "answer": "createElement", "isCorrect": true },
+      { "answer": "appendElement" },
+      { "answer": "createTag" }
+    ]
+  }
+]

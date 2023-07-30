@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "tech": "HTML",
+    "img": "https://i.ibb.co/x1yGRxw/html5.png"
+  },
+  {
+    "key": 2,
+    "tech": "CSS",
+    "img": "https://i.ibb.co/vjfdSFR/css3.png"
+  },
+  {
+    "key": 3,
+    "tech": "JavaScript",
+    "img": "https://i.ibb.co/pJYJs0V/js.png"
+  },
+  {
+    "key": 4,
+    "tech": "Bootstrap",
+    "img": "https://i.ibb.co/Q8BCySm/bootstrap.png"
+  },
+  {
+    "key": 5,
+    "tech": "ReactJS",
+    "img": "https://i.ibb.co/b7mj7Fd/React.png"
+  },
+  {
+    "key": 6,
+    "tech": "NextJS",
+    "img": "https://i.ibb.co/Xbgz2NQ/Nextjs.png"
+  },
+  {
+    "key": 7,
+    "tech": "NodeJS",
+    "img": "https://i.ibb.co/X2W601f/nodejs.png"
+  },
+  {
+    "key": 8,
+    "tech": "ExpressJS",
+    "img": "https://i.ibb.co/D5QFxYz/express.png"
+  }
+]
